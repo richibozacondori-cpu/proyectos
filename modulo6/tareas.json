@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Tarea 1",
+    "descripcion": "Mi primera tarea",
+    "estado": "pendiente",
+    "fecha_de_entrega": "2024-06-30"
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "hola",
+    "estado": "pendiente",
+    "fecha_de_entrega": "2026-12-31"
+  }
+]
